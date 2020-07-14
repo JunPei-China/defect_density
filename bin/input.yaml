@@ -1,0 +1,15 @@
+# 样品名称无实际意义仅作为标识区分
+Sample_Name: Sb2Te3
+# 晶胞体积，单位A^-3
+Cell_Volume: 481.35
+
+#晶胞中的原子数目
+Atom_Number_in_Cell: 15
+
+#缺陷名称，无实际意义，仅作为标识
+Defect_Name: Sb_Te
+#缺陷价态，为负表示会额外提供空穴，为正表示会额我提供电子
+Defect_Valence_State: -1
+#载流子浓度,单位cm^-3
+Carrier_Density: 2E21
+
